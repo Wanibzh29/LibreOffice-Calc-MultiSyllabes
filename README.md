@@ -1,5 +1,5 @@
 # LibreOffice Calc MultiSyllabes
-A function to create a schem of the stressed syllabics.
+A function to create a scheme of the stressed syllabics.
 
 ## I. Licences
 - 2003-Now An Drouizig
